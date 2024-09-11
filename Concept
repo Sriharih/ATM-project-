@@ -1,0 +1,46 @@
+ATM Simulator in Java
+
+Overview
+
+A simple ATM simulator built in Java, providing basic banking operations:
+
+- Deposit
+- Withdrawal
+- Balance Inquiry
+- Exit
+
+Features
+
+- User-friendly interface
+- Transaction history
+
+Technologies Used
+
+- Java 8+
+- Object-Oriented Programming (OOP) principles
+
+Getting Started
+
+1. Clone the repository
+2. Compile the project: javac ATM.java
+3. Run the program: java ATM
+
+Usage
+
+1. Select an operation:
+    - Deposit: Enter amount to deposit
+    - Withdrawal: Enter amount to withdraw
+    - Balance Inquiry: View current balance
+    - Exit: Quit the program
+
+Contributing
+
+Pull requests and issues welcome! Please submit your contributions and suggestions.
+
+License
+
+This project is licensed under the MIT License.
+
+Author
+
+Sri hariharan
